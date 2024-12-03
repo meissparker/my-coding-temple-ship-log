@@ -1,1 +1,0 @@
-# Use a compass to find your way home.
